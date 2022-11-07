@@ -29,6 +29,9 @@ def next_card():
 
     canvas.itemconfig(card_word, text=changeIt["French"])
     canvas.itemconfig(card_word2, text=changeIt["Italian"])
+    speech('fr', changeIt["French"])
+    speech('it', changeIt["Italian"])
+    play()
 
 def speech(lang, text):
     language = lang
@@ -65,9 +68,7 @@ card_title = canvas.create_text(400, 150, text="Title", font=("Ariel", 40, "ital
 card_title2 = canvas.create_text(400, 185, text="[Title 2]", font=("Ariel", 24, "italic"))
 card_word = canvas.create_text(400, 263, text="word", font=("Ariel", 60, "bold"))
 
-speech('fr', changeIt["French"])
-speech('it', changeIt["Italian"])
-play()
+
 speech_symbol = PhotoImage(file="images/sound42x42.png")
 speech_symbol_button = Button(image=speech_symbol, highlightthickness=0, command=play, borderwidth=0, bd=0)
 speech_symbol_button.place(x=550, y=240)
