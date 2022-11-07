@@ -5,25 +5,22 @@
 
 Steps to accomplish this goal:
 
-1. Add a Count Down Mechanism;
-2. Applying Dynamic Typing Explained;
-3. Setting Different Timer Sessions and Values;
-4. Adding Checkmarks and Resetting the Application.
+- [x] UI with Tkinter;
+- [x] Create .csv data file to use as DB for this project;
+- [x]Implement Speech libray to the user be able to listen to any new word ;
+- [x] Flip the card in specific time.
+- [x] Save the progress of the user
 
+Tech Implemented & Prints: 
+-----------
+1. Phyton
+   * Tkinter 
+   
+
+
+> Prints Screen of this App for MacOS:
+
+![Example of how is the layout of Flash Card](images/ScreenShot1.png "Example Front of Flash Card")
 
 Gabe Pereira Coding :white_check_mark:
 :snake:
-
-
-
-
-
-
-
-Steps to accomplish this goal:
-
-Add a Count Down Mechanism;
-Applying Dynamic Typing Explained;
-Setting Different Timer Sessions and Values;
-Adding Checkmarks and Resetting the Application.
-Gabe Pereira Coding ✅ 🐍
