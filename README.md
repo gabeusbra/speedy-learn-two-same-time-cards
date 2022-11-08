@@ -22,5 +22,8 @@ Tech Implemented & Prints:
 
 ![Example of how is the layout of Flash Card](images/ScreenShot1.png "Example Front of Flash Card")
 
+![Example of how is the layout of Flash Card](images/Print2.png "Example Front of Flash Card")
+
+[![Watch the video](images/ScreenShot1.png)](images/ScreenRecording.mov)
 Gabe Pereira Coding :white_check_mark:
 :snake:
