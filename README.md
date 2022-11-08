@@ -24,7 +24,9 @@ Tech Implemented & Prints:
 
 ![Example of how is the layout of Flash Card](images/Print2.png "Example Front of Flash Card")
 
-[![Watch the video](https://user-images.githubusercontent.com/98163151/200673946-7a0bbc54-56df-4e3f-90c1-5f83f0039d0a.mp4)
+[![Watch the video] (https://user-images.githubusercontent.com/98163151/200673946-7a0bbc54-56df-4e3f-90c1-5f83f0039d0a.mp4)
+
+
 Gabe Pereira Coding :white_check_mark:
 :snake:
 
